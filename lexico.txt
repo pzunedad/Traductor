@@ -1,0 +1,53 @@
+// Operadores relacionales y de asignación //Hecho por Pablo Borderas
+
+greater_than                >
+greater_equals              >=
+less_than               <
+less_equals             <=
+equals              ==
+not_equals              !=
+assignment              =
+
+// Operadores aritméticos
+
+add             +
+subtract                -
+multiply                *
+divide              /
+remainder               %
+
+// Operadores lógicos
+
+and             &&
+or              ||
+not             !
+
+// Delimitadores
+
+double_slash                    //
+dot             .
+comma               ,
+semicolon               ;
+open_parenthesis                (
+closed_parenthesis              )
+open_square_bracket             [
+closed_square_bracket               ]
+open_bracket                {
+closed_bracket              }
+
+// Palabras reservadas
+
+print               print
+boolean             boolean
+break               break
+do                  do
+else                else
+false               false
+float               float
+for                 for
+if                  if
+int                 int
+while               while
+true                true
+main                main
+void                void
